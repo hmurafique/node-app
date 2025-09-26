@@ -5,12 +5,13 @@ This project is a simple Node.js + Express application deployed using a **manual
 ---
 
 ## 📁 Project Structure
+```bash
 node-app/
 ├── server.js
 ├── package.json
 ├── Dockerfile
 └── README.md
-
+```
 
 ---
 
